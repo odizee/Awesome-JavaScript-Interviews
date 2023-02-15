@@ -211,7 +211,6 @@ validation-report.json
 # Folders to ignore
 node_modules
 Project-Note-PAUL
-.vscode
 
 # Ignore all logfiles and tempfiles.
 !/log/.keep
@@ -234,3 +233,5 @@ performance-1.js
 **/*-test.ipynb
 **/*-test.md
 **/*-test.json
+temp_auto_push.bat
+temp_interactive_push.bat
